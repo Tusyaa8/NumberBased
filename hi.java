@@ -1,6 +1,0 @@
-class hi
-{
-    public static void main()
-    {
-    }
-}
